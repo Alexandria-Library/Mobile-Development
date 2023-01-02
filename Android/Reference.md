@@ -1,6 +1,5 @@
 # Android Development
-Android development adalah bidang dari mobile development yang berfokus pada pengembangan aplikasi untuk perangkat mobile yang menjalankan sistem operasi Android. 
-Umumnya, bahasa yang digunakan untuk pengembangan aplikasi Android adalah Java atau Kotlin. Orang yang melakukan Android development disebut Android Developer.
+Android development adalah bidang dari mobile development yang berfokus pada pengembangan aplikasi untuk perangkat mobile yang menjalankan sistem operasi Android. Umumnya, bahasa yang digunakan untuk pengembangan aplikasi Android adalah Java atau Kotlin. Orang yang melakukan Android development disebut Android Developer.
 
 ## Jalur Pembelajaran Android Development
 * [Dicoding](https://www.dicoding.com/learningpaths/7)
@@ -9,7 +8,7 @@ Umumnya, bahasa yang digunakan untuk pengembangan aplikasi Android adalah Java a
 * [BinarAcaedmy](https://www.binaracademy.com/bootcamp/mobile-development)
 
 ## Kelas Online (Gratis)
-### Belajar bahasa pemrograman Android
+### Belajar Bahasa Pemrograman Android
 * Java
     * [GeeksForGeeks](https://www.geeksforgeeks.org/java/)
     * [GeeksForGeeks, Java For Android Development](https://www.geeksforgeeks.org/learn-java-for-android-app-development-a-complete-guide/)
@@ -33,7 +32,7 @@ Umumnya, bahasa yang digunakan untuk pengembangan aplikasi Android adalah Java a
 * [Fragment](https://developer.android.com/guide/fragments)
 * [User Interface dan Navigasi](https://developer.android.com/guide/topics/ui)
 * [Data Storage](https://developer.android.com/training/data-storage)
-* [Backgroud Task](https://developer.android.com/guide/background)
+* [Background Task](https://developer.android.com/guide/background)
 * [Notifikasi](https://developer.android.com/develop/ui/views/notifications)
 
 ### Intermediate Android
@@ -45,7 +44,7 @@ Umumnya, bahasa yang digunakan untuk pengembangan aplikasi Android adalah Java a
 * [Implementasi Gestur dan Sentuhan](https://developer.android.com/guide/input)
 * [Implementasi Sensor](https://developer.android.com/guide/topics/sensors)
 * [Penggunaan Kamera](https://developer.android.com/training/camera)
-* [Penggunaan Konektifitas](https://developer.android.com/guide/topics/connectivity)
+* [Penggunaan Konektivitas](https://developer.android.com/guide/topics/connectivity)
 * [Penggunaan Konten Berbasis Web](https://developer.android.com/guide/webapps)
 
 ### Expert Android
@@ -70,8 +69,8 @@ Coming soon...
 ## Library
 Berikut adalah library yang biasa digunakan dalam pengembangan aplikasi android :
 * [Android Jetpack](https://developer.android.com/jetpack)
-* [Retorfit (Networking)](https://square.github.io/retrofit/)
-* [Firebase Crashlytics (Mengelola Crash/Eror Aplikasi)](https://firebase.google.com/products/crashlytics)
+* [Retrofit (Networking)](https://square.github.io/retrofit/)
+* [Firebase Crashlytics (Mengelola Crash/Error Aplikasi)](https://firebase.google.com/products/crashlytics)
 * [Timber (Mengelola Log)](https://github.com/JakeWharton/timber)
 * [Glide (Memuat Gambar)](https://github.com/bumptech/glide)
 * [Lottie (Animasi Grafis)](http://airbnb.io/lottie/)
@@ -81,10 +80,10 @@ Berikut adalah library yang biasa digunakan dalam pengembangan aplikasi android 
 ## Proyek Latihan
 * Content List App
 * Notes App
-* Calcualator
+* Calculator
 * To Do List
 * Course Scheduler
-* Habbit Tracker
+* Habit Tracker
 
 ## Media Sosial
 * [Android Developers (Linkedin)](https://www.linkedin.com/showcase/androiddev/)
