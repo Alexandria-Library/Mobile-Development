@@ -1,5 +1,5 @@
 # Mobile-Development 📱
-Mobile development adalah proses pengembangan aplikasi mobile yang dapat di pasang pada perangkat seluler seperti ponsel atau tablet. Mobile development memungkinkan pengguna untuk mengakses informasi, mengelola tugas, dan melakukan berbagai aktivitas lainnya melalui perangkat mobile mereka.
+Mobile development adalah proses pengembangan aplikasi mobile yang dapat dipasang pada perangkat seluler seperti ponsel atau tablet. Mobile development memungkinkan pengguna untuk mengakses informasi, mengelola tugas, dan melakukan berbagai aktivitas lainnya melalui perangkat mobile mereka.
 ### Bidang Mobile Development
 1. [Android Development](Android/Reference.md)
 2. [iOS Development](iOS/Reference.md)
